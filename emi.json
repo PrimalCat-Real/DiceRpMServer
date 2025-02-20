@@ -1,8 +1,32 @@
 {
   "favorites": [],
   "lookup_history": [
-    "item:create_enchantment_industry:hyper_experience_bottle",
-    "item:graveyard:dark_iron_ingot"
+    "item:tfmg:aluminum_ingot",
+    "item:caverns_and_chasms:necromium_ingot",
+    "item:minecraft:netherite_ingot",
+    "item:caverns_and_chasms:silver_ingot",
+    "item:minecraft:gold_ingot",
+    "item:minecraft:coast_armor_trim_smithing_template",
+    "item:minecraft:tide_armor_trim_smithing_template",
+    "item:createbigcannons:cast_iron_ingot",
+    "item:createbigcannons:nethersteel_nugget",
+    "item:createbigcannons:nethersteel_ingot",
+    "item:graveyard:dark_iron_ingot",
+    "item:createdeco:industrial_iron_ingot",
+    "item:createdeco:industrial_iron_nugget",
+    "item:botania:manasteel_ingot",
+    "item:eidolon:silver_ingot",
+    "item:botania:gaia_ingot",
+    "item:eidolon:lead_ingot",
+    "item:botania:elementium_ingot",
+    "item:sanguine_arsenal:shadow_ingot",
+    "item:sanguine_arsenal:shadow_nugget",
+    "item:irons_spellbooks:arcane_ingot",
+    {
+      "type": "item",
+      "id": "minecraft:gunpowder",
+      "amount": 2
+    }
   ],
   "craft_history": [],
   "recipe_defaults": {

@@ -53,7 +53,7 @@ hitscanDamageModifier = 0.8
 headshotDamageModifier = 1.7
 #Sets the crosshair type.
 #Allowed Values: DEFAULT, VANILLA, DISABLED
-crosshair = "VANILLA"
+crosshair = "DEFAULT"
 #Enables gore effects
 goreEnabled = false
 #Enables advanced integraiton with Iris shaders
