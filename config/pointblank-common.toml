@@ -8,12 +8,12 @@ scopeAimingMouseSensitivity = 0.4
 resetAutoFirePitchEnabled = true
 #Adjusts the knockback force applied to entities hit by gunfire, with higher values causing greater knockback distance.
 #Range: 0.1 ~ 2.0
-knockback = 1.0
+knockback = 0.1
 #Enables particle effects
 particleEffectsEnabled = true
 #Sets the likelihood of an 'Arms Dealer' house appearing in new villages, with higher values increasing frequency and lower values making it rarer.
 #Range: 0 ~ 20
-armsDealerHouse = 10
+armsDealerHouse = 0
 #Set the exchange rate to determine how many in-game price units are equivalent to one emerald.
 #Range: 1.0 ~ 1000.0
 emeraldExchangeRate = 100.0
@@ -39,23 +39,23 @@ customShadersEnabled = true
 explosionDestroyBlocksEnabled = true
 #Sets the probability of dropping some item(s) by monster mobs.
 #Range: 0.0 ~ 1.0
-itemDropChance = 0.35
+itemDropChance = 0.0
 #Sets the max count of items to be dropped by a monster mob.
 #Range: 2 ~ 64
-maxItemDropCount = 7
+maxItemDropCount = 2
 #Enables bullets breaking glass
 bulletsBreakGlassEnabled = true
 #Modifier to adjust damage dealt by hitscan weapons.
 #Range: 0.1 ~ 10.0
-hitscanDamageModifier = 1.0
+hitscanDamageModifier = 0.8
 #Modifier to adjust damage dealt by headshot.
 #Range: 1.0 ~ 10.0
-headshotDamageModifier = 3.0
+headshotDamageModifier = 1.7
 #Sets the crosshair type.
 #Allowed Values: DEFAULT, VANILLA, DISABLED
-crosshair = "DEFAULT"
+crosshair = "VANILLA"
 #Enables gore effects
-goreEnabled = true
+goreEnabled = false
 #Enables advanced integraiton with Iris shaders
 advancedIrisIntegrationEnabled = true
 #Enables advanced first person animations

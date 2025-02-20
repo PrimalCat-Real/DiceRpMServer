@@ -1,5 +1,5 @@
 {
-  "customSky [default: true]": true,
+  "customSky [default: true]": false,
   "blendBiomeMusic [default: true]": true,
   "sulfurWaterColor [default: true]": true
 }

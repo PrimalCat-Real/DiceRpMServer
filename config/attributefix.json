@@ -165,6 +165,17 @@
         "value": 2000
       }
     },
+    "caverns_and_chasms:weakness_aura": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 30
+      }
+    },
     "forge:entity_reach": {
       "enabled": false,
       "min": {
@@ -253,6 +264,17 @@
         "value": 100
       }
     },
+    "caverns_and_chasms:lifesteal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 5,
+        "value": 5
+      }
+    },
     "irons_spellbooks:cast_time_reduction": {
       "enabled": false,
       "min": {
@@ -284,6 +306,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "caverns_and_chasms:magic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 30
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -572,6 +605,28 @@
         "value": 100
       }
     },
+    "caverns_and_chasms:slowness_infliction": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 30
+      }
+    },
+    "caverns_and_chasms:magic_protection": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 30
+      }
+    },
     "minecraft:generic.flying_speed": {
       "enabled": true,
       "min": {
@@ -724,6 +779,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "caverns_and_chasms:experience_boost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 30
       }
     },
     "lodestone:magic_damage": {
