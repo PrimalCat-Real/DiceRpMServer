@@ -26,14 +26,14 @@
 		manaBarYOffset = 0
 		manaBarTextVisible = true
 		#Allowed Values: Hunger, XP, Center, TopLeft, TopRight, BottomLeft, BottomRight
-		manaBarAnchor = "Hunger"
+		manaBarAnchor = "BottomRight"
 		manaTextXOffset = 0
 		manaTextYOffset = 0
 
 	[UI.SpellBar]
 		#By default (Always), the spell bar always shows the spells in your equipped spellbook. Contextual will hide them when not in use.
 		#Allowed Values: Never, Always, Contextual
-		spellBarDisplay = "Always"
+		spellBarDisplay = "Contextual"
 		#Used to adjust spell bar's position.
 		spellBarXOffset = 0
 		spellBarYOffset = 0
@@ -48,7 +48,7 @@
 
 [Animations]
 	#What to render in first person while casting.
-	showFirstPersonArms = true
+	showFirstPersonArms = false
 	showFirstPersonItems = true
 
 [Renderers]
